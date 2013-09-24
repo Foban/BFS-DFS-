@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1380057384 source:/home/jackson/Документы/Projects/Breadth-first search/main.cpp
+	<iostream>
+	<fstream>
+	"Queue.h"
+
+1380057424 /home/jackson/Документы/Projects/Breadth-first search/Queue.h
+	<exception>
+
