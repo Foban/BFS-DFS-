@@ -62,5 +62,9 @@ int main()
     }
     fout.close();
 
+    for (int i=0; i<N; ++i)
+       delete []ar[i];
+       delete []ar;
+       ar=0;
     return 0;
 }

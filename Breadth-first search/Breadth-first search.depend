@@ -7,3 +7,11 @@
 1380057424 /home/jackson/Документы/Projects/Breadth-first search/Queue.h
 	<exception>
 
+1380060719 source:/home/jackson/Документы/Projects/BFS && DFS/Breadth-first search/main.cpp
+	<iostream>
+	<fstream>
+	"Queue.h"
+
+1380057424 /home/jackson/Документы/Projects/BFS && DFS/Breadth-first search/Queue.h
+	<exception>
+
